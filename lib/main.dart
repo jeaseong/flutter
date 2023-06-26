@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:my_app/bottom/bottom_navigator.dart';
 import 'package:my_app/state/screens/state_screen.dart';
-import 'package:my_app/webtoon/webtoon_screen.dart';
+import 'package:my_app/webtoon/screen/webtoon_screen.dart';
 
 void main() {
   runApp(const MyApp());
