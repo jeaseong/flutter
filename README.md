@@ -1,16 +1,18 @@
-# my_app
+# 플러터 체험
 
-A new Flutter project.
+간단한 앱 만들어 봤음
 
-## Getting Started
+문법은 타입스크립특랑 비슷함.
 
-This project is a starting point for a Flutter application.
+웹 개발과는 다르게 ui를 구성하는 방법이 틀이 딱 정해져 있음.
+스타일 레이아웃을 잡을 때 이미 만들어진 위젯?들이 있음.
+만들고 보면 뷰가 엄청 복잡해보임.. 아마 패턴을 통해서 바꿀 수 있는 부분인 것 같음.
+백엔드 약간 공부하고 패턴공부를 좀 할 예정
 
-A few resources to get you started if this is your first Flutter project:
+일단 스크린 하나만 개발을 해봤는데 확실히 메리트가 있음.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+구조를 잡는 건 아직 잘 모르겠는데 mvvm이 많이 보이는 것 같음.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+가만 생각해 보면 웹 개발, 특히 리액트를 주로 사용하면 보통의 언어와 좀 멀어지는 기분이 드는 것 같음.
+
+리액트가 앞서 나간 것인가..? 클래스형에서 함수형으로 바뀌면서 패러다임이 완전 바뀌었는데 단순히 그 차이가 아닌 것 같음..
